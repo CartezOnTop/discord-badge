@@ -1,0 +1,29 @@
+<timecycle_modifier_data version="1.000000">
+<modifier name="hud_def_desat_cold_kill" numMods="27" userFlags="0">
+<ped_light_col_r>192.000 192.864</ped_light_col_r>
+<ped_light_col_g>192.855 192.864</ped_light_col_g>
+<ped_light_col_b>192.502 192.864</ped_light_col_b>
+<ped_light_mult>0.000 0.500</ped_light_mult>
+<light_ray_col_r>0.035 1.000</light_ray_col_r>
+<light_ray_col_g>0.035 1.000</light_ray_col_g>
+<light_ray_col_b>0.035 1.000</light_ray_col_b>
+<postfx_bright_pass_thresh>0.600 0.000</postfx_bright_pass_thresh>
+<postfx_intensity_bloom>0.150 0.000</postfx_intensity_bloom>
+<postfx_correct_col_r>0.035 0.000</postfx_correct_col_r>
+<postfx_correct_col_g>0.035 0.000</postfx_correct_col_g>
+<postfx_correct_col_b>0.035 0.000</postfx_correct_col_b>
+<postfx_correct_cutoff>0.560 0.000</postfx_correct_cutoff>
+<postfx_shift_col_r>0.035 1.000</postfx_shift_col_r>
+<postfx_shift_col_g>0.035 1.000</postfx_shift_col_g>
+<postfx_shift_col_b>0.035 1.000</postfx_shift_col_b>
+<postfx_shift_cutoff>0.400 0.000</postfx_shift_cutoff>
+<postfx_desaturation>0.500 0.000</postfx_desaturation>
+<postfx_noise>0.050 0.000</postfx_noise>
+<postfx_vignetting_intensity>0.950 0.000</postfx_vignetting_intensity>
+<postfx_vignetting_radius>7.500 0.000</postfx_vignetting_radius>
+<postfx_vignetting_contrast>0.000 0.000</postfx_vignetting_contrast>
+<postfx_vignetting_col_r>0.000 0.000</postfx_vignetting_col_r>
+<postfx_vignetting_col_g>0.000 0.000</postfx_vignetting_col_g>
+<postfx_vignetting_col_b>0.000 0.000</postfx_vignetting_col_b>
+</modifier>
+</timecycle_modifier_data>
